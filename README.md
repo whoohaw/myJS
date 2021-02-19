@@ -1,2 +1,2 @@
 # myJS
-this is project gor my JS-scripts
+this is project for my JS-scripts
